@@ -1,0 +1,24 @@
+# Virtual Environment — never upload this
+venv/
+.venv/
+env/
+
+# Python junk files
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Secret files
+.env
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code settings
+.vscode/
