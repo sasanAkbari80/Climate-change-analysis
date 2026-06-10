@@ -22,25 +22,27 @@ some questions that actually matter:
 ---
 
 ## Project structure
-climate-change-analysis/
-│
-├── data/
-│   ├── raw/                        # original datasets as downloaded
-│   └── cleaned/                    # processed versions ready for analysis
-│
-├── notebooks/
-│   ├── 01_data_cleaning.ipynb      # loading, inspecting and cleaning all 5 datasets
-│   ├── 02_visualizations.ipynb     # exploratory charts and trend analysis
-│   ├── 03_dashboard.ipynb          # multi-panel dashboard with event overlays
-│   ├── 04_machine_learning.ipynb   # CO2 emissions forecast model (Sasan Akbari)
-│   └── 05_temperature_prediction.ipynb  # temperature anomaly model (Arya Tahmasebi)
-│
-├── outputs/
-│   ├── figures/                    # all saved charts and plots
-│   └── models/                     # trained ML models (.pkl files)
-│
-├── requirements.txt
-└── README.md
+## Project structure
+
+    climate-change-analysis/
+    │
+    ├── data/
+    │   ├── raw/                          # original datasets as downloaded
+    │   └── cleaned/                      # processed versions ready for analysis
+    │
+    ├── notebooks/
+    │   ├── 01_data_cleaning.ipynb        # loading, inspecting and cleaning all 5 datasets
+    │   ├── 02_visualizations.ipynb       # exploratory charts and trend analysis
+    │   ├── 03_dashboard.ipynb            # multi-panel dashboard with event overlays
+    │   ├── 04_machine_learning.ipynb     # CO2 emissions forecast model (Sasan Akbari)
+    │   └── 05_temperature_prediction.ipynb  # temperature anomaly model (Arya Tahmasebi)
+    │
+    ├── outputs/
+    │   ├── figures/                      # all saved charts and plots
+    │   └── models/                       # trained ML models (.pkl files)
+    │
+    ├── requirements.txt
+    └── README.md
 
 ---
 
