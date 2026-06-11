@@ -17,7 +17,7 @@ and apply machine learning to see how well historical patterns can predict
 future outcomes.
 
 
-We worked with five real-world datasets covering the period 2000 to 2023, 
+We worked with five real-world datasets covering the period 2000 to 2026, 
 including yearly CO2 emissions by country, monthly global temperature anomalies, 
 national energy mix breakdowns, daily EU carbon market prices, and a timeline 
 of major climate events and policy decisions.
