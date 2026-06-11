@@ -157,3 +157,36 @@ Data sourced from publicly available climate databases.
 This project was built as part of our preparation for applying to 
 MSc programs in AI and Data Analytics.
 
+---
+
+## Results
+
+### Temperature Analysis
+Global temperature anomaly has increased by approximately 1.0 degree C
+since the 1951-1980 baseline. The trend is consistent and accelerating
+in recent decades, with the highest anomalies recorded after 2015.
+
+### CO2 Emissions
+China and the United States account for the largest share of global
+emissions by a significant margin. However, CO2 per capita tells a
+different story — smaller developed nations often have higher per
+person emissions than large developing ones.
+
+### Energy Transition
+Renewables have grown steadily across all regions but fossil fuels
+still account for the majority of global energy consumption as of 2023.
+Europe leads the transition while Asia remains heavily coal dependent.
+
+### Carbon Market
+EU carbon prices were relatively low from 2005 to 2017, then rose
+sharply after 2018 following stronger EU climate policy commitments.
+The price increase correlates directly with major policy events in
+our climate events dataset.
+
+### Machine Learning Models
+Both prediction models achieved strong performance on test data.
+The Random Forest outperformed Linear Regression in both cases.
+The CO2 forecast model projects continued emissions growth through
+2050 under a business as usual scenario. The temperature model
+confirms the strong relationship between atmospheric CO2 and
+surface temperature anomaly.
