@@ -2,9 +2,9 @@ Project Reflection
 
 What we Learned :
 Working on this project taught us things that go well beyond what any 
-textbook could cover. We came in knowing the basics of Python and left 
-with a genuinely different understanding of what data science actually 
-looks like in practice.
+textbook could cover. We came in with a limmited knowlege of data science 
+and left with a genuinely different understanding of what data science 
+actually looks like in practice.
 
 The most surprising lesson was how much time real data work takes before 
 you even get to the interesting parts. Cleaning five datasets, handling 
@@ -28,7 +28,7 @@ we cleaned ourselves made the trend feel real in a way that reading
 about it never did.
 
 We also came to see machine learning differently. Before starting, we 
-imagined it as something almost magical — you feed in data and get 
+imagined it as something beyond logic — you feed in data and get 
 back answers. After building our own models we understand that the 
 quality of predictions depends entirely on the quality and relevance 
 of the input data, and that every model has limitations that need to 
